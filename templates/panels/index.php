@@ -14,7 +14,7 @@
 
         <link rel="stylesheet" href="<?php echo $template_dir_url ?>style.css">
 
-        <link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Cabin+Condensed:400,500' rel='stylesheet' type='text/css'>
 
         <link rel="shortcut icon" href="<?php echo $blog_url ?>/dropplets/style/images/favicon.png">
